@@ -1,6 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🅰️
 
-<!--
+Meu nome é Adriano Buzzá
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem _JavaScript_
+- Utilizo esse espaço para minha organização e compartolhamento dos meus projetos desenvolvidos
+
+### você pode entrar em contato comigo pelo email 📫
+
+adrianobuzza@prof.educacao.sp.gov.br
+
 **ProfessorAdrianoBuzza/ProfessorAdrianoBuzza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +22,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
